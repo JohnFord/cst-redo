@@ -1,0 +1,13 @@
+{
+    "name": "johnford/cst-rewrite",
+    "description": "CST conversion test repo",
+    "authors": [
+        {
+            "name": "John Ford",
+            "email": "john.ford@patientco.com"
+        }
+    ],
+    "require": {
+
+    }
+}
